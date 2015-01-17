@@ -1,0 +1,18 @@
+While this gure might well be dierent in today's environment, the
+basic observation is still true, and may even have been aggravated by
+the use of instantaneous global communication. Even worse, more
+users not only nd more actual bugs, but also articulate more wishes
+in general. Be it a genuine error, a feature request, or merely a fun-
+damental misunderstanding of the software's operation, the typical
+user request is far from being a technically precise bug report. And
+each request demands the attention of the developers, consuming
+precious time that is not available to actually write code.
+虽然这古尔在今天的环境中很可能是不同的，
+但基本观察仍然是正确的，由于即时全球传播的使用，甚至可能已经加剧
+。更糟的是，更多的
+用户不仅发现更多实际的错误，还明确有力地表达更多普遍的愿望
+。无论是一个真正的错误，还是功能要求，或仅仅是对
+软件操作根本的误解，典型
+用户的要求是远远不是一个技术上精确的错误报告。
+每个要求必须引起开发商的关注，花费
+难得的宝贵时间真正地写代码。
